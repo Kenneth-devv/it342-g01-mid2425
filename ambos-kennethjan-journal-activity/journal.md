@@ -26,14 +26,14 @@ Today I learned how to setup the google and github OAuth2 which is needed for th
 I struggled with the security configuration part, especially with how long the code is and confused with the lambda code part as well, but I will definitely try to learn it.
 
 
-6/14/2025
+## [DATE: 6/14/2025]
 
 I practiced using git cherry-pick today. It’s a powerful tool that allows me to apply a single commit from one branch onto another. Initially, I was confused about the hash references, but once I understood how to identify the right commit with git log, it became much clearer.
 
 I still get a bit lost when conflicts arise during cherry-picking and don’t always know the safest way to resolve them.
 
 
-## [Date: 06-20-2025]
+## [Date: 06/20/2025]
 
 **1. What did I accomplish yesterday?**
 - I learned a bit more about git, tried to learn rebase again to see if I could understand it now, but it's still hard for me to learn, especially keeping track.
@@ -43,3 +43,27 @@ I still get a bit lost when conflicts arise during cherry-picking and don’t al
 
 **3. Any blockers or challenges?**
 - What challenged me today still was rebase, I will try to continue learning it because it is definitely helpful to me.
+
+
+## [Date: 06/26/2025]
+
+**1. What did I accomplish yesterday?**
+- Yesterday, I became more comfortable using git diff to review changes before committing and navigating commit history with git log.
+
+**2. What will I do today?**
+- Today, I'm aiming to learn git reset for undoing commits and understanding the differences between its hard, soft, and mixed options.
+
+**3. Any blockers or challenges?**
+- My main challenge will be using git reset safely and precisely, without inadvertently losing any valuable work.
+
+
+## [Date: 06/30/2025]
+
+**1. What did I accomplish yesterday?**
+- Yesterday, I got a better handle on git pull and git fetch, understanding how they differ in updating my local repository from remotes.
+
+**2. What will I do today?**
+- Today, I'm planning to dive into interactive rebase (git rebase -i) to clean up my commit history before pushing.
+
+**3. Any blockers or challenges?**
+-  My biggest challenge will be using interactive rebase effectively without accidentally squashing important commits or creating a mess.
